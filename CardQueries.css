@@ -1,0 +1,15 @@
+@media  screen and (max-width: 600px) {
+    .card{
+        width: 320px;
+        height: 293px;
+    }
+    .advice-number{
+        font-size: 0.75rem;
+    }
+    .advice-content{
+        font-size: 1.2rem;
+    }
+    .card button{
+        bottom: 12%;
+    }
+}
