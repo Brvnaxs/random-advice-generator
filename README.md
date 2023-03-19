@@ -1,2 +1,3 @@
 - API: https://api.adviceslip.com/
 - Tecnologias: Html, Css e JavaScript.
+- Template de inspiração: https://www.figma.com/file/kkxdBlkbPF59NqhI3f9dUb/Advice-Generator-(Community)?node-id=2%3A79&t=hyUElq10RgRx969b-1
